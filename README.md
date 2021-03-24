@@ -3,6 +3,7 @@
 ### 이 코드를 무단복제나, 함부로 설치해서 끄투를 여신다면 그건 나쁜짓입니다. 
 ### 만약에 쓰신다고 해도, op@jwct.ml , 애푸르스박#2549
 ### 으로 이 코드를 사용한다라고 얘기는 해주시기 바랍니다.
+### 이 저장소는 [GNU 3.0](https://github.com/JJoriping/KKuTu/blob/master/LICENSE)의 라이센스를 가지고 있습니다.
 
 # KKuTu
 - Made by [JJoriping](http://blog.jjo.kr/)
